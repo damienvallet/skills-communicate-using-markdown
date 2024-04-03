@@ -8,3 +8,11 @@
 def foo(bar):
   pass
 ```
+- [ ] find an idea
+- [ ] do it
+- [ ] fail
+- [ ] start again
+- [ ] fail faster
+- [ ] i said faster
+- [ ] die
+- [ ] revive
